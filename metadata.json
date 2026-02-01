@@ -1,0 +1,9 @@
+{
+  "name": "SocialIntel Pro",
+  "description": "Enterprise YouTube Analytics & AI Growth Suite",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
